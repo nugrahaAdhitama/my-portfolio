@@ -9,6 +9,8 @@ module.exports = {
       colors: {
         primary: '#14b8a6',
         dark: '#0f172a',
+        secondary: '#64748b',
+        pinky : '#ec4899',
       },
       screens: {
         '2xl': '1320px',
